@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleToDo</string>
+    <string name="etNetItem">Add a new item here</string>
+    <string name="btnAddItem">Add</string>
+</resources>
