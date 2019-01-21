@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Create categories within the app for multiple lists
 
 ## Video Walkthrough
 
@@ -32,11 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Understanding the itself IDE gave me the biggest challenge. The walkthrough video uses an outdated version, so not everything was the same. Understanding the interactions between the view and the java activity code was also a point of confusion.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Chris Panko]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
